@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **natnael8.bebe@gmail.com**
 
-- ⚡ Fun fact **My favourite animal is a dog because they're so energetic, lovely and friendly.**
+- ⚡ Fun fact **a program is a text file written in a coding language, think of it as an instruction manual.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
