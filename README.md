@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks And Databases**
 
-- 💬 Ask me about **React, SQL, And Mongodb**
+- 💬 Ask me about **React,Django,JS, SQL, NOSQL and more**
 
 - 📫 How to reach me **natnael8.bebe@gmail.com**
 
