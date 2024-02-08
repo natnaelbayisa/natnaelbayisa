@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React,Django,JS, SQL, NOSQL and more**
 
-- 📫 How to reach me **natnael8.bebe@gmail.com**
+- 📫 How to reach me **@cloud.com**
 
 - ⚡ Fun fact **a program is a text file written in a coding language, think of it as an instruction manual.**
 
